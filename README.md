@@ -1,6 +1,6 @@
 ### Hi there 
 💫 About Me:
-Front-End Web Developer | HTML, CSS, JavaScript | <br>Assistant Vice President AICP<br>Ambassador, Cod Crafters<br>Passionate about responsive design and code <br>Creating captivating user experiences.<br>Open-source contributor and continuous learner. <br>Let's build something amazing together! <br><br>Let's connect and collaborate to<br>create a future powered by innovation<br>and creativity! 🌟💡<br><br>
+Front-End Web Developer | HTML, CSS, JavaScript <br>Passionate about responsive design and code <br>Creating captivating user experiences.. <br>Let's build something amazing together! <br><br> Let's connect and collaborate to<br>create a future powered by innovation<br>and creativity! <br><br>
 
 
 ## 🌐 Socials:
